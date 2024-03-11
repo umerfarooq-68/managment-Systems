@@ -1,0 +1,11 @@
+{
+  "name": "react-user-management-master",
+  "version": "1.0.0",
+  "description": "This project is an customer management system built with React, Node.js, Express, MongoDB and Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
